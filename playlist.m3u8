@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Channel 2" group-title="Uncategorized",Channel 2
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 3" group-title="Uncategorized",Channel 3
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 4" group-title="Uncategorized",Channel 4
+http://198.195.239.50:8095/cahnne24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 5" group-title="Uncategorized",Channel 5
+http://198.195.239.50:8095/atnNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 6" group-title="Uncategorized",Channel 6
+http://198.195.239.50:8095/ekattorTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 7" group-title="Uncategorized",Channel 7
+http://198.195.239.50:8095/jamunaTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 8" group-title="Uncategorized",Channel 8
+http://198.195.239.50:8095/atnBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 9" group-title="Uncategorized",Channel 9
+http://198.195.239.50:8095/banglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 10" group-title="Uncategorized",Channel 10
+http://198.195.239.50:8095/channelI/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 11" group-title="Uncategorized",Channel 11
+http://198.195.239.50:8095/ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 12" group-title="Uncategorized",Channel 12
+http://198.195.239.50:8095/deepto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 13" group-title="Uncategorized",Channel 13
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 14" group-title="Uncategorized",Channel 14
+http://198.195.239.50:8095/starJalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 15" group-title="Uncategorized",Channel 15
+http://198.195.239.50:8095/jalshaMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 16" group-title="Uncategorized",Channel 16
+http://198.195.239.50:8095/zeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 17" group-title="Uncategorized",Channel 17
+http://198.195.239.50:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 18" group-title="Uncategorized",Channel 18
+http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 19" group-title="Uncategorized",Channel 19
+http://198.195.239.50:8095/sangeetBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 20" group-title="Uncategorized",Channel 20
+http://198.195.239.50:8095/sonyMax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 21" group-title="Uncategorized",Channel 21
+http://198.195.239.50:8095/sonyEntertainment/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 22" group-title="Uncategorized",Channel 22
+http://198.195.239.50:8095/starPlus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 23" group-title="Uncategorized",Channel 23
+http://198.195.239.50:8095/starMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 24" group-title="Uncategorized",Channel 24
+http://198.195.239.50:8095/Fifa-1/video.m3u8
+#EXTINF:-1 tvg-name="Channel 25" group-title="Uncategorized",Channel 25
+http://198.195.239.50:8095/unt-s/video.m3u8
+#EXTINF:-1 tvg-name="Channel 26" group-title="Uncategorized",Channel 26
+http://198.195.239.50:8095/btv/video.m3u8
+#EXTINF:-1 tvg-name="Channel 27" group-title="Uncategorized",Channel 27
+http://198.195.239.50:8095/colors/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Channel 28" group-title="Uncategorized",Channel 28
+http://198.195.239.50:8095/colorsCineplex/tracks-v1a1/mono.m3u8
