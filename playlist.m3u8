@@ -53,5 +53,7 @@ http://198.195.239.50:8095/btv/video.m3u8
 http://198.195.239.50:8095/colors/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Channel 28" group-title="Uncategorized",Channel 28
 http://198.195.239.50:8095/colorsCineplex/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Channel 28" group-title="Uncategorized",Channel 29
+#EXTINF:-1 tvg-name="Channel 29" group-title="Uncategorized",Channel 29
 http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="Channel 30" group-title="Uncategorized",Channel 30
+https://cricxtv.fun/bioscope.php?file=index_1.m3u8
