@@ -57,3 +57,5 @@ http://198.195.239.50:8095/colorsCineplex/tracks-v1a1/mono.m3u8
 http://107.150.60.122/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-name="Channel 30" group-title="Uncategorized",Channel 30
 https://cricxtv.fun/bioscope.php?file=index_1.m3u8
+#EXTINF:-1 tvg-name="Channel 30" group-title="Uncategorized",Channel 30
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
