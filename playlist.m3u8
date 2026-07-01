@@ -59,3 +59,5 @@ http://107.150.60.122/live/cctv5hd.m3u8
 https://cricxtv.fun/bioscope.php?file=index_1.m3u8
 #EXTINF:-1 tvg-name="Channel 31" group-title="Uncategorized",Channel 31
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-name="Channel 32" group-title="Uncategorized",Channel 32
+http://198.195.239.50:8095/tsports/index.m3u8
